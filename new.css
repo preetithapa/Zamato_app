@@ -1,0 +1,24 @@
+#Menu ul
+{
+    list-style: none;
+
+}
+#Menu ul li
+{
+    background-color: red;
+    border: 2px solid white;
+    width: 267px;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+    float: left;
+}
+#Menu ul li a
+{
+    text-decoration: none;
+    color: white;
+    display: black;
+}
+
+
+
